@@ -4,7 +4,7 @@ Ta repozitorij vsebuje projekt, v katerem analiziram naprave globalne pomoči pr
 
 Pri projektu uporabljamo racunalniski program Mathematica.
 
-Uporabil bom podatke za naslednje strani: https://datarepository.wolframcloud.com/resources/OurAirports-Navigation-Aids/ .
+Uporabil bom podatke za naslednje strani: https://datarepository.wolframcloud.com/resources/OurAirports-Navigation-Aids/ in priložene datoteke.
 Analiziral bom podatke in prikazal naprave glede na državo, geografsko lokacijo, vrsto naprave...
 Podatke bom prikazal v grafih. 
 
