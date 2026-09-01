@@ -9,3 +9,4 @@ Analiziral bom podatke in prikazal naprave glede na državo, geografsko lokacijo
 Podatke bom prikazal v grafih. 
 
 
+Youtube posnetek: https://www.youtube.com/watch?v=dvaHPSQDN34
